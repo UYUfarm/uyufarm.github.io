@@ -334,6 +334,8 @@ padding: 70px 0;
 }
 .footer h1{
 color:#fff;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #339beb;
 }
 .footer.section {
 background: #222222;
