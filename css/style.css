@@ -141,7 +141,6 @@ blockquote {
 	vertical-align: middle;
 	min-height: 100%;
 	width: 100%;
-	color: #ffde05;
 }
 .banner:after {
 	position: absolute;
@@ -160,6 +159,7 @@ blockquote {
 	left: 0px;
 	text-align: center;
 	right: 0;
+	color: #339BEB;
 }
 .subfooter {
 	background-color: #222222;
@@ -447,7 +447,7 @@ h4.heading {
 .btn-default {
 	color: #FFFFFF;
 	background: #FFDE05;
-	border: 0;
+	border: 1;
 }
 .btn-default:hover {
 	color: #ffffff;
