@@ -120,7 +120,7 @@ blockquote {
 /* Layout
 ----------------------------------------------------------------------------- */
 .header {
-	color: #020202;
+	color: #ffde05;
 	background-color: rgba(225, 175, 43, 0);
 	padding: 10px 0;
 	-webkit-transition: all 0.2s ease-in-out;
@@ -610,7 +610,7 @@ background-color: #D7D7D7;border-radius: 0;color: #fff;}
 }
 .main-navigation .navbar-default .navbar-nav > li > a {
 	padding: 10px 20px;
-	color: rgba(255, 255, 255, 0.68);
+	color: rgba(51, 155, 235, 0.68);
 	font-weight: 700;
 	font-size: 16px;
 }
