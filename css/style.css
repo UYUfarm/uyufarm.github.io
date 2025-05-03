@@ -328,14 +328,14 @@ padding: 70px 0;
 .banner-caption h5,
 .banner-caption h6 {
 	color: #ffffff;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #339beb;
 }
 .banner-caption h1 {
 	font-size: 45px;
 }
 .footer h1{
 color:#fff;
--webkit-text-stroke-width: 1px;
--webkit-text-stroke-color: #339beb;
 }
 .footer.section {
 background: #222222;
