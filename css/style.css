@@ -207,7 +207,7 @@ border:0px;
 .transprant-bg h4,
 .transprant-bg h5,
 .transprant-bg h6 {
-	color: #FFDE05;
+	color: #000000;
 }
 .default-bg blockquote footer,
 .transprant-bg blockquote footer {
@@ -402,6 +402,8 @@ color: #FFDE05;
   text-align: center;
   font-size: 25px;
   color: #FFDE05;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #339beb;
 }
 .box-services p {
   color: #000000;
