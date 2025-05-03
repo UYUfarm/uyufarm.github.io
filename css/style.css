@@ -58,11 +58,11 @@ h2 span,
 h3 span,
 h4 span {
 	color: #FFDE05;
-	-webkit-text-stroke-width: 1px;
-	-webkit-text-stroke-color: #339beb;
 }
 .colored {
 	color: #FFDE05;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #339beb;
 }
 a {
 	color: #55acee;
