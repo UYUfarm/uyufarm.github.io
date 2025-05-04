@@ -329,9 +329,9 @@ padding: 70px 0;
 .banner-caption h4,
 .banner-caption h5,
 .banner-caption h6 {
-	color: #ffffff;
+	color: #339beb;
 	-webkit-text-stroke-width: 1px;
-	-webkit-text-stroke-color: #339beb;
+	-webkit-text-stroke-color: #ffffff;
 }
 .banner-caption h1 {
 	font-size: 45px;
