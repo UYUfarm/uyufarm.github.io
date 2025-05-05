@@ -283,7 +283,6 @@
 			<div class="container">
 				<h1 class="text-center title" id="portfolio">Farm Life in Pictures</h1>
 				<div class="separator"></div>
-				<!--p class="lead text-center">Lorem ipsum dolor sit amet laudantium molestias similique.<br> Quisquam incidunt ut laboriosam.</p-->
 				<br>			
 				<div class="row no-view" data-animation-effect="fadeIn">
 					<div class="col-md-12">
@@ -303,13 +302,14 @@
 
 						<!-- portfolio items start -->
 						<div class="isotope-container row grid-space-20">
+
+							
 							<div class="col-sm-6 col-md-3 isotope-item others">
 								<div class="image-box">
 									<div class="overlay-container">
 										<img src="images/portfolio-1.jpg" alt="">
 										<a class="overlay" data-toggle="modal" data-target="#project-1">
 											<i class="fa fa-search-plus"></i>
-											 
 										</a>
 									</div>
 									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-1">Project Title</a>
@@ -1017,23 +1017,55 @@
 		<script type="text/javascript" src="js/custom.js"></script>
 <script>
     $(document).ready(function() {
+    $.getJSON('gallery-data.json', function(data) {
+        let galleryHTML = '';
+        
+        data.images.forEach((image, index) => {
+            galleryHTML += `
+                <div class="col-sm-6 col-md-3 isotope-item ${image.tags.join(' ')}">
+                    <div class="image-box">
+                        <div class="overlay-container">
+                            <img src="images/${image.filename}" alt="${image.title}">
+                            <a class="overlay" data-toggle="modal" data-target="#project-${index}">
+                                <i class="fa fa-search-plus"></i>
+                            </a>
+                        </div>
+                        <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-${index}">${image.title}</a>
+                    </div>
+                    
+                    <div class="modal fade" id="project-${index}" tabindex="-1" role="dialog">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal"><span>&times;</span></button>
+                                    <h4 class="modal-title">${image.title}</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <img src="images/${image.filename}" alt="${image.title}">
+                                            <br/>
+                                            <p>${image.description}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        });
+        
+        $('.isotope-container').html(galleryHTML);
+        
+        // Initialize Isotope
         var $grid = $('.isotope-container').isotope({
             itemSelector: '.isotope-item',
             layoutMode: 'fitRows'
         });
-
-        // Filter items on button click
-        $('.filters').on('click', 'a', function() {
-            var filterValue = $(this).attr('data-filter');
-            $grid.isotope({ filter: filterValue });
-        });
-
-        // Change active class on buttons
-        $('.filters').on('click', 'a', function() {
-            $('.filters').find('.active').removeClass('active');
-            $(this).parent().addClass('active');
-        });
     });
+});
+
 </script>
 
 	</body>
