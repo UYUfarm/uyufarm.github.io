@@ -602,6 +602,8 @@
             itemSelector: '.isotope-item',
             layoutMode: 'fitRows'
         });
+    }).fail(function(jqXHR, textStatus, errorThrown) {
+        console.log('Error loading JSON:', textStatus, errorThrown);
     });
 });
 $('.filters').on('click', 'a', function(e) {
