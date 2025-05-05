@@ -556,6 +556,7 @@
 <script>
     $(document).ready(function() {
     $.getJSON('gallery-data.json', function(data) {
+	console.log('Loaded data:', data);  // Add this line here
         let galleryHTML = '';
         
         data.images.forEach((image, index) => {
@@ -603,7 +604,12 @@
         });
     });
 });
-
+$('.filters').on('click', 'a', function(e) {
+    e.preventDefault();
+    var filterValue = $(this).attr('data-filter');
+    $grid.isotope({ filter: filterValue });
+});
+	
 </script>
 
 	</body>
