@@ -555,6 +555,23 @@
 		<script type="text/javascript" src="js/custom.js"></script>
 <script>
     $(document).ready(function() {
+    // First: Initialize Isotope and click handlers
+    var $grid = $('.isotope-container').isotope({
+        itemSelector: '.isotope-item',
+        layoutMode: 'fitRows'
+    });
+
+    $('.filters').on('click', 'a', function(e) {
+        e.preventDefault();
+        var filterValue = $(this).attr('data-filter');
+        $grid.isotope({ filter: filterValue });
+    });
+
+    $('.filters').on('click', 'a', function() {
+        $('.filters').find('.active').removeClass('active');
+        $(this).parent().addClass('active');
+    });
+	    
     $.getJSON('gallery-data.json', function(data) {
 	console.log('Loaded data:', data);  // Add this line here
         let galleryHTML = '';
@@ -606,11 +623,7 @@
         console.log('Error loading JSON:', textStatus, errorThrown);
     });
 });
-$('.filters').on('click', 'a', function(e) {
-    e.preventDefault();
-    var filterValue = $(this).attr('data-filter');
-    $grid.isotope({ filter: filterValue });
-});
+
 	
 </script>
 
