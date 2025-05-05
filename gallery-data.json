@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "filename": "images/portfolio-1.jpg",
+      "title": "Barn Horses",
+      "tags": ["farm", "turmeric"],
+      "description": "Beautiful horses in the barn",
+      "modalTitle": "Farm Sunset View",
+      "detailedDescription": "This photo was taken during the golden hour, showing our main barn and wheat fields..."
+    },
+    {
+      "filename": "images/portfolio-2.jpg",
+      "title": "Sunset Field",
+      "tags": ["others", "ginger"],
+      "description": "Evening view of the fields",
+      "modalTitle": "Farm Sunset View",
+      "detailedDescription": "This photo was taken during the golden hour, showing our main barn and wheat fields..."
+    }
+  ]
+}
