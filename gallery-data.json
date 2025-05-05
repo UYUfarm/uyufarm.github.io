@@ -1,7 +1,7 @@
 {
   "images": [
     {
-      "filename": "images/portfolio-1.jpg",
+      "filename": "portfolio-1.jpg",
       "title": "Barn Horses",
       "tags": ["farm", "turmeric"],
       "description": "Beautiful horses in the barn",
@@ -9,7 +9,7 @@
       "detailedDescription": "This photo was taken during the golden hour, showing our main barn and wheat fields..."
     },
     {
-      "filename": "images/portfolio-2.jpg",
+      "filename": "portfolio-2.jpg",
       "title": "Sunset Field",
       "tags": ["others", "ginger"],
       "description": "Evening view of the fields",
