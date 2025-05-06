@@ -1,20 +1,28 @@
 {
   "images": [
     {
-      "filename": "portfolio-1.jpg",
-      "title": "Barn Horses",
+      "filename": "TurmericFlower1.jpg",
+      "title": "Black-Turmeric Flower",
       "tags": ["farm", "turmeric"],
-      "description": "Beautiful horses in the barn",
-      "modalTitle": "Farm Sunset View",
-      "detailedDescription": "This photo was taken during the golden hour, showing our main barn and wheat fields2..."
+      "description": "Amazing and rare: Flower of black turmeric plant",
+      "modalTitle": "Flowers of black turmeric plant",
+      "detailedDescription": "Turmeric flowers blossom when the ambient conditions are perfect for their growth and propagation."
     },
     {
-      "filename": "portfolio-2.jpg",
-      "title": "Sunset Field",
+      "filename": "blkGingerFlower1.jpg",
+      "title": "Black-Ginger Flower",
       "tags": ["ginger", "farm"],
-      "description": "Evening view of the fields",
-      "modalTitle": "Farm Sunset View",
-      "detailedDescription": "This photo was taken during the golden hour, showing our main barn and wheat fields1..."
+      "description": "Amazing and rare: Flower of black ginger plant",
+      "modalTitle": "Flowers of black ginger plant",
+      "detailedDescription": "Ginger flowers blossom when the ambient conditions are perfect for their growth and propagation."
+    },
+    {
+      "filename": "yellowturmeric1.jpg",
+      "title": "Yellow Turmeric Fingers",
+      "tags": ["turmeric", "farm"],
+      "description": "Broken fingers of Lakadong variety turmeric fingers",
+      "modalTitle": "Yellow Trmeric",
+      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
     }
   ]
 }
