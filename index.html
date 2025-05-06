@@ -460,7 +460,9 @@
          </div>      
 	</section-->
 		
-
+<div class="isotope-container row grid-space-20">
+    <img src="images/portfolio-1.jpg" alt="test">
+</div>
 		<!-- footer start --> 
 		<footer id="footer">
 
@@ -577,6 +579,7 @@
         let galleryHTML = '';
         
         data.images.forEach((image, index) => {
+		console.log('Generated HTML:', galleryHTML);
             galleryHTML += `
                 <div class="col-sm-6 col-md-3 isotope-item ${image.tags.join(' ')}">
                     <div class="image-box">
@@ -613,8 +616,9 @@
         });
         console.log('Generated HTML:', galleryHTML);
     $('.isotope-container').html(galleryHTML);
-        $('.isotope-container').html(galleryHTML);
-        
+
+    // Reinitialize Isotope after adding content
+    $grid.isotope('reloadItems').isotope();        
         // Initialize Isotope
         var $grid = $('.isotope-container').isotope({
             itemSelector: '.isotope-item',
