@@ -615,16 +615,12 @@
                 </div>
             `;
         });
-        console.log('Generated HTML:', galleryHTML);
     $('.isotope-container').html(galleryHTML);
+        console.log('Generated HTML:', galleryHTML);
 
     // Reinitialize Isotope after adding content
     $grid.isotope('reloadItems').isotope();        
-        // Initialize Isotope
-        var $grid = $('.isotope-container').isotope({
-            itemSelector: '.isotope-item',
-            layoutMode: 'fitRows'
-        });
+
     }).fail(function(jqXHR, textStatus, errorThrown) {
         console.log('Error loading JSON:', textStatus, errorThrown);
     });
