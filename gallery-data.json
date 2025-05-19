@@ -1,19 +1,19 @@
 {
   "images": [{
-      "filename": "TurmericFlower1.jpg",
-      "title": "Black-Turmeric Flower",
-      "tags": ["farm", "turmeric"],
-      "description": "Amazing and rare: Flower of black turmeric plant",
-      "modalTitle": "Flowers of black turmeric plant",
-      "detailedDescription": "Turmeric flowers blossom when the ambient conditions are perfect for their growth and propagation."
+      "filename": "IMG_20250508_160422834_HDR.jpg",
+      "title": "Lakadong Turmeric-Black Ginger-Black Turmeric",
+      "tags": ["farm"],
+      "description": "Three unique varieties in our farm: Lakadong Turmeric, Black Ginger, and Black Turmeric",
+      "modalTitle": "Lakadong Turmeric, Black Ginger, and Black Turmeric",
+      "detailedDescription": "Three unique varieties in our farm: Lakadong Turmeric, Black Ginger, and Black Turmeric."
     },
     {
-      "filename": "blkGingerFlower1.jpg",
-      "title": "Black-Ginger Flower",
+      "filename": "IMG_20250508_093333897_HDR.jpg",
+      "title": "Black-Ginger",
       "tags": ["ginger", "farm"],
-      "description": "Amazing and rare: Flower of black ginger plant",
-      "modalTitle": "Flowers of black ginger plant",
-      "detailedDescription": "Ginger flowers blossom when the ambient conditions are perfect for their growth and propagation."
+      "description": "Amazing and rare: Black ginger ",
+      "modalTitle": "Black ginger plant",
+      "detailedDescription": "Black ginger is said to have many medicinal powers."
     },
     {
       "filename": "yellowturmeric1.jpg",
