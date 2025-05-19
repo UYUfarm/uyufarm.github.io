@@ -741,6 +741,9 @@ background-color: #D7D7D7;border-radius: 0;color: #fff;}
 .site-slogan {
 	font-size: 12px;
 }
+.site-slogan a {
+	color: #339BEB;
+}
 /**
   MEDIA QUERIES
 */
