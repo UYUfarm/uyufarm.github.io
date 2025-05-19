@@ -2,98 +2,74 @@
   "images": [{
       "filename": "IMG_20250508_160422834_HDR.jpg",
       "title": "Lakadong Turmeric-Black Ginger-Black Turmeric",
-      "tags": ["farm"],
+      "tags": ["farm","turmeric"],
       "description": "Three unique varieties in our farm: Lakadong Turmeric, Black Ginger, and Black Turmeric",
-      "modalTitle": "Lakadong Turmeric, Black Ginger, and Black Turmeric",
-      "detailedDescription": "Three unique varieties in our farm: Lakadong Turmeric, Black Ginger, and Black Turmeric."
     },
     {
-      "filename": "IMG_20250508_093333897_HDR.jpg",
+      "filename": "IMG_20250508_093048644_HDR.jpg",
       "title": "Black-Ginger",
       "tags": ["ginger", "farm"],
       "description": "Amazing and rare: Black ginger ",
-      "modalTitle": "Black ginger plant",
-      "detailedDescription": "Black ginger is said to have many medicinal powers."
     },
     {
-      "filename": "yellowturmeric1.jpg",
+      "filename": "IMG_20250508_072055430_HDR.jpg",
       "title": "Yellow Turmeric Fingers",
       "tags": ["turmeric", "farm"],
       "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
     },
     {
-      "filename": "IMG_20240320_122355559_HDR.jpg",
-      "title": "Giant boulder - broken",
+      "filename": "IMG_20241113_114459270_HDR.jpg",
+      "title": "Black turmeric fingers",
+      "tags": ["farm","turmeric"],
+      "description": "Fresh harvest of black turmeric fingers",
+    },
+    {
+      "filename": "IMG_20250502_072653219_HDR.jpg",
+      "title": "Sprouting black turmeric",
+      "tags": ["turmeric", "farm"],
+      "description": "Sprouting and flowering black turmeric mother rhizome",
+    },
+    {
+      "filename": "IMG_20250508_092915747_HDR.jpg",
+      "title": "Black ginger",
+      "tags": ["ginger", "farm"],
+      "description": "Freshly harvested black ginger",
+    },
+    {
+      "filename": "IMG_20250508_092757205_HDR.jpg",
+      "title": "Black ginger",
+      "tags": ["ginger", "farm"],
+      "description": "Freshly harvested black ginger",
+    },
+    {
+      "filename": "IMG_20250508_073948980_HDR.jpg",
+      "title": "Yellow Turmeric Mother Rhizomes",
+      "tags": ["turmeric", "farm"],
+      "description": "Freshly harvested Lakadong variety turmeric mother rhizomes",
+    },
+    {
+      "filename": "IMG_20250508_072221855_HDR.jpg",
+      "title": "Yellow Turmeric",
+      "tags": ["turmeric", "farm"],
+      "description": "Freshly pulled put lakadong variety turmeric",
+    },
+    {
+      "filename": "IMG_20250506_145227931_HDR.jpg",
+      "title": "Our Mode of Transport",
       "tags": ["farm"],
-      "description": "Broken boulder in the middle of farm",
-      "modalTitle": "Boulder",
-      "detailedDescription": "The farm had a large boulder in the middle. This is the scene after being broken down."
+      "description": "Our daily commute, converted as farm transport vehicle.",
     },
     {
-      "filename": "yellowturmeric1.jpg",
-      "title": "Yellow Turmeric Fingers",
-      "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
+      "filename": "IMG_20250506_073441021_HDR.jpg",
+      "title": "Black ginger flowers",
+      "tags": ["ginger", "farm"],
+      "description": "Black ginger flowers in our farm",
     },
     {
-      "filename": "yellowturmeric1.jpg",
-      "title": "Yellow Turmeric Fingers",
+      "filename": "IMG_20250506_074536157_HDR.jpg",
+      "title": "Black Turmeric Mother Rhizomes",
       "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
-    },
-    {
-      "filename": "yellowturmeric1.jpg",
-      "title": "Yellow Turmeric Fingers",
-      "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
-    },
-    {
-      "filename": "yellowturmeric1.jpg",
-      "title": "Yellow Turmeric Fingers",
-      "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
-    },
-    {
-      "filename": "yellowturmeric1.jpg",
-      "title": "Yellow Turmeric Fingers",
-      "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
-    },
-    {
-      "filename": "yellowturmeric1.jpg",
-      "title": "Yellow Turmeric Fingers",
-      "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
-    },
-    {
-      "filename": "yellowturmeric1.jpg",
-      "title": "Yellow Turmeric Fingers",
-      "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
-    },
-    {
-      "filename": "yellowturmeric1.jpg",
-      "title": "Yellow Turmeric Fingers",
-      "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
+      "description": "Black turmeric mother rhizomes, seperated from the finger rhizomes.",
     },
     {
       "filename": "yellowturmeric1.jpg",
