@@ -21,6 +21,10 @@ body {
 	/* background-color: #B5B5B5; */
 	position: relative;
 }
+hr {
+  border: none;
+  border-top: 1px dotted black;
+}
 h1,
 h2,
 h3,
