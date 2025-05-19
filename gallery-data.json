@@ -1,4 +1,4 @@
-{
+L{
   "images": [
     {
       "filename": "IMG_20250508_160422834_HDR.jpg",
@@ -94,7 +94,85 @@
       "filename": "IMG_20250508_133317758_HDR.jpg",
       "title": "Helping hands",
       "tags": ["others", "farm"],
-      "description": "local help for the harvest."
+      "description": "Local help for the harvest."
+    },
+    {
+      "filename": "IMG_20250506_120329300.jpg",
+      "title": "Yellow Turmeric",
+      "tags": ["turmeric", "farm"],
+      "description": "Freshly harvested lakadong variety turmeric."
+    },
+    {
+      "filename": "IMG_20250506_075059804_HDR.jpg",
+      "title": "Coconut",
+      "tags": ["others"],
+      "description": "One of the coconut trees around the farm."
+    },
+    {
+      "filename": "IMG_20250511_082820656_HDR.jpg",
+      "title": "Papaya",
+      "tags": ["others"],
+      "description": "Papaya plant in the farm."
+    },
+    {
+      "filename": "IMG_20250511_112324950_HDR.jpg",
+      "title": "Butterflies",
+      "tags": ["others"],
+      "description": "Visitors of natural farms."
+    },
+    {
+      "filename": "IMG_20250508_105216325.jpg",
+      "title": "Snail",
+      "tags": ["others"],
+      "description": "Visitors of natural farms."
+    },
+    {
+      "filename": "IMG_20250508_105135085_HDR.jpg",
+      "title": "Snail",
+      "tags": ["others"],
+      "description": "Visitors of natural farms."
+    },
+    {
+      "filename": "IMG_20241003_172855054.jpg",
+      "title": "Spicy chillies",
+      "tags": ["chilli"],
+      "description": "A sample of spice on the farm."
+    },
+    {
+      "filename": "IMG_20241003_172847566.jpg",
+      "title": "Spicy chillies",
+      "tags": ["chilli"],
+      "description": "A sample of spice on the farm."
+    },
+    {
+      "filename": "IMG_20241003_171838556_HDR.jpg",
+      "title": "Spicy chillies",
+      "tags": ["chilli"],
+      "description": "A sample of spice on the farm."
+    },
+    {
+      "filename": "IMG_20241003_171831542_HDR.jpg",
+      "title": "Spicy chillies",
+      "tags": ["chilli"],
+      "description": "A sample of spice on the farm."
+    },
+    {
+      "filename": "IMG_20241003_171824578_HDR.jpg",
+      "title": "Spicy chillies",
+      "tags": ["chilli"],
+      "description": "A sample of spice on the farm."
+    },
+    {
+      "filename": "IMG_20240908_122504250_HDR.jpg",
+      "title": "Spicy chillies",
+      "tags": ["chilli"],
+      "description": "A sample of spice on the farm."
+    },
+    {
+      "filename": "IMG_20240804_174029459.jpg",
+      "title": "Spicy chillies",
+      "tags": ["chilli"],
+      "description": "A sample of spice on the farm."
     },
     {
       "filename": "yellowturmeric1.jpg",
