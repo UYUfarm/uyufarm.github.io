@@ -2,8 +2,8 @@
   "images": [
     {
       "filename": "IMG_20250508_160422834_HDR.jpg",
-      "title": "Lakadong Turmeric-Black Ginger-Black Turmeric",
-      "tags": ["farm","turmeric"],
+      "title": "Colors of our farm: Yellow, Purple, and Blue",
+      "tags": ["farm"],
       "description": "Three unique varieties in our farm: Lakadong Turmeric, Black Ginger, and Black Turmeric"
     },
     {
@@ -43,6 +43,12 @@
       "description": "Freshly harvested black ginger"
     },
     {
+      "filename": "IMG_20250508_112726421_HDR.jpg",
+      "title": "Ladybugs",
+      "tags": ["others", "farm"],
+      "description": "Friends of our farm: Ladybugs"
+    },
+    {
       "filename": "IMG_20250508_073948980_HDR.jpg",
       "title": "Yellow Turmeric Mother Rhizomes",
       "tags": ["turmeric", "farm"],
@@ -73,10 +79,22 @@
       "description": "Black turmeric mother rhizomes, seperated from the finger rhizomes."
     },
     {
+      "filename": "IMG_20250508_142008045.jpg",
+      "title": "Stored Harvest",
+      "tags": ["others"],
+      "description": "This is how 2.5 tonne looks like."
+    },
+    {
       "filename": "yellowturmeric1.jpg",
       "title": "Yellow Turmeric Fingers",
       "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers"
+      "description": "Broken fingers of Lakadong variety turmeric fingers."
+    },
+    {
+      "filename": "IMG_20250508_133317758_HDR.jpg",
+      "title": "Helping hands",
+      "tags": ["others", "farm"],
+      "description": "local help for the harvest."
     },
     {
       "filename": "yellowturmeric1.jpg",
