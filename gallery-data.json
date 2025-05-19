@@ -9,37 +9,37 @@
     {
       "filename": "IMG_20250508_093048644_HDR.jpg",
       "title": "Black-Ginger",
-      "tags": ["ginger", "farm"],
+      "tags": ["ginger"],
       "description": "Amazing and rare: Black ginger "
     },
     {
       "filename": "IMG_20250508_072055430_HDR.jpg",
       "title": "Yellow Turmeric Fingers",
-      "tags": ["turmeric", "farm"],
+      "tags": ["turmeric"],
       "description": "Broken fingers of Lakadong variety turmeric fingers"
     },
     {
       "filename": "IMG_20241113_114459270_HDR.jpg",
       "title": "Black turmeric fingers",
-      "tags": ["farm","turmeric"],
+      "tags": ["turmeric"],
       "description": "Fresh harvest of black turmeric fingers"
     },
     {
       "filename": "IMG_20250502_072653219_HDR.jpg",
       "title": "Sprouting black turmeric",
-      "tags": ["turmeric", "farm"],
+      "tags": ["turmeric"],
       "description": "Sprouting and flowering black turmeric mother rhizome"
     },
     {
       "filename": "IMG_20250508_092915747_HDR.jpg",
       "title": "Black ginger",
-      "tags": ["ginger", "farm"],
+      "tags": ["ginger"],
       "description": "Freshly harvested black ginger"
     },
     {
       "filename": "IMG_20250508_092757205_HDR.jpg",
       "title": "Black ginger",
-      "tags": ["ginger", "farm"],
+      "tags": ["ginger"],
       "description": "Freshly harvested black ginger"
     },
     {
@@ -51,31 +51,31 @@
     {
       "filename": "IMG_20250508_073948980_HDR.jpg",
       "title": "Yellow Turmeric Mother Rhizomes",
-      "tags": ["turmeric", "farm"],
+      "tags": ["turmeric"],
       "description": "Freshly harvested Lakadong variety turmeric mother rhizomes"
     },
     {
       "filename": "IMG_20250508_072221855_HDR.jpg",
       "title": "Yellow Turmeric",
-      "tags": ["turmeric", "farm"],
+      "tags": ["turmeric"],
       "description": "Freshly pulled put lakadong variety turmeric"
     },
     {
       "filename": "IMG_20250506_145227931_HDR.jpg",
       "title": "Our Mode of Transport",
-      "tags": ["farm"],
+      "tags": ["others"],
       "description": "Our daily commute, converted as farm transport vehicle."
     },
     {
       "filename": "IMG_20250506_073441021_HDR.jpg",
       "title": "Black ginger flowers",
-      "tags": ["ginger", "farm"],
+      "tags": ["ginger"],
       "description": "Black ginger flowers in our farm"
     },
     {
       "filename": "IMG_20250506_074536157_HDR.jpg",
       "title": "Black Turmeric Mother Rhizomes",
-      "tags": ["turmeric", "farm"],
+      "tags": ["turmeric"],
       "description": "Black turmeric mother rhizomes, seperated from the finger rhizomes."
     },
     {
@@ -85,26 +85,26 @@
       "description": "This is how 2.5 tonne looks like."
     },
     {
-      "filename": "yellowturmeric1.jpg",
-      "title": "Yellow Turmeric Fingers",
-      "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers."
-    },
-    {
       "filename": "IMG_20250508_133317758_HDR.jpg",
       "title": "Helping hands",
-      "tags": ["others", "farm"],
+      "tags": ["others"],
       "description": "Local help for the harvest."
     },
     {
       "filename": "IMG_20250506_120329300.jpg",
       "title": "Yellow Turmeric",
-      "tags": ["turmeric", "farm"],
+      "tags": ["turmeric"],
       "description": "Freshly harvested lakadong variety turmeric."
     },
     {
       "filename": "IMG_20250506_075059804_HDR.jpg",
-      "title": "Coconut",
+      "title": "Coconut Tree",
+      "tags": ["others"],
+      "description": "One of the coconut trees around the farm."
+    },
+    {
+      "filename": "IMG_20250506_071619098_HDR.jpg",
+      "title": "Coconut Plant",
       "tags": ["others"],
       "description": "One of the coconut trees around the farm."
     },
@@ -113,6 +113,24 @@
       "title": "Papaya",
       "tags": ["others"],
       "description": "Papaya plant in the farm."
+    },
+    {
+      "filename": "IMG_20250506_071451522.jpg",
+      "title": "Henna Plant",
+      "tags": ["others"],
+      "description": "Henna Plant."
+    },
+    {
+      "filename": "IMG_20250506_071516548.jpg",
+      "title": "Henna Plant",
+      "tags": ["others"],
+      "description": "Henna Plant."
+    },
+    {
+      "filename": "IMG_20250506_071557852_HDR.jpg",
+      "title": "Jackfruit Plant",
+      "tags": ["others"],
+      "description": "Jackfruit Plant."
     },
     {
       "filename": "IMG_20250511_112324950_HDR.jpg",
@@ -173,6 +191,294 @@
       "title": "Spicy chillies",
       "tags": ["chilli"],
       "description": "A sample of spice on the farm."
+    },
+    {
+      "filename": "IMG_20240322_151751425_HDR.jpg",
+      "title": "Boulders",
+      "tags": ["farm"],
+      "description": "How it started out"
+    },
+    {
+      "filename": "IMG_20240322_170757658_HDR.jpg",
+      "title": "Broken Boulders",
+      "tags": ["farm"],
+      "description": "How it went on"
+    },
+    {
+      "filename": "IMG_20240322_163254893_HDR.jpg",
+      "title": "Broken Boulders",
+      "tags": ["farm"],
+      "description": "How it went on"
+    },
+    {
+      "filename": "IMG_20240406_153559330.jpg",
+      "title": "Cleared Boulders",
+      "tags": ["farm"],
+      "description": "How it went on"
+    },
+    {
+      "filename": "IMG_20240406_153555766_HDR.jpg",
+      "title": "Levelled land",
+      "tags": ["farm"],
+      "description": "How it went on"
+    },
+    {
+      "filename": "IMG_20240425_172121745_HDR.jpg",
+      "title": "FYM",
+      "tags": ["farm"],
+      "description": "Manure for the upcoming crop."
+    },
+    {
+      "filename": "IMG_20240506_131936144_HDR.jpg",
+      "title": "Nursery Setup",
+      "tags": ["farm"],
+      "description": "Nursery for delicate care for the sprouting rhizomes."
+    },
+    {
+      "filename": "IMG_20240506_171316889_HDR.jpg",
+      "title": "Mulching Setup with Drip Lines",
+      "tags": ["farm"],
+      "description": "Weed elimination and direct watering setup."
+    },
+    {
+      "filename": "IMG_20240506_173023035_HDR.jpg",
+      "title": "Protection",
+      "tags": ["farm"],
+      "description": "1st level protection from animals."
+    },
+    {
+      "filename": "IMG_20240522_100341078.jpg",
+      "title": "Sprouts",
+      "tags": ["farm"],
+      "description": "Sprouting life for future expansion"
+    },
+    {
+      "filename": "IMG_20240522_095741481.jpg",
+      "title": "Sprouts",
+      "tags": ["farm"],
+      "description": "A healthy sprout of black turmeric rhizome."
+    },
+    {
+      "filename": "IMG_20240522_095757056.jpg",
+      "title": "Healthy Growth of Sprouts",
+      "tags": ["farm"],
+      "description": "A black turmeric flower from a mother rhizome."
+    },
+    {
+      "filename": "IMG_20240522_095803039_HDR.jpg",
+      "title": "Healthy Growth of Sprouts",
+      "tags": ["farm"],
+      "description": "A black turmeric flower from a mother rhizome."
+    },
+    {
+      "filename": "IMG_20240525_135641162.jpg",
+      "title": "Transplantation of Sprouts",
+      "tags": ["farm"],
+      "description": "A transplanted rhizome of black turmeric."
+    },
+    {
+      "filename": "IMG_20240527_151248334.jpg",
+      "title": "Stable Transplantation",
+      "tags": ["farm"],
+      "description": "A well settled transplantation from the nursery"
+    },
+    {
+      "filename": "IMG_20240612_181141964.jpg",
+      "title": "Growth After Transplantation",
+      "tags": ["farm"],
+      "description": "A well settled transplantation from the nursery"
+    },
+    {
+      "filename": "IMG_20240618_172833052.jpg",
+      "title": "Growth Phase",
+      "tags": ["farm"],
+      "description": "Growing crop"
+    },
+    {
+      "filename": "IMG_20240618_172900497.jpg",
+      "title": "Growth Phase",
+      "tags": ["farm"],
+      "description": "Growing crop"
+    },
+    {
+      "filename": "IMG_20240713_162028389.jpg",
+      "title": "Growth Phase",
+      "tags": ["farm"],
+      "description": "Growing crop"
+    },
+    {
+      "filename": "IMG_20240824_175842931_HDR.jpg",
+      "title": "Growth Phase",
+      "tags": ["farm"],
+      "description": "Growing crop"
+    },
+    {
+      "filename": "IMG_20240908_120437610_HDR.jpg",
+      "title": "Growth Phase",
+      "tags": ["farm"],
+      "description": "Growing crop"
+    },
+    {
+      "filename": "IMG_20241003_171804098_HDR.jpg",
+      "title": "Growth Phase",
+      "tags": ["farm"],
+      "description": "Growing crop"
+    },
+    {
+      "filename": "IMG_20241013_121907861_HDR.jpg",
+      "title": "Flowers of Black Ginger",
+      "tags": ["farm"],
+      "description": "Signs of healthy growth of black ginger"
+    },
+    {
+      "filename": "IMG_20241013_123846879.jpg",
+      "title": "Flowers of Black Ginger",
+      "tags": ["farm"],
+      "description": "Signs of healthy growth of black ginger"
+    },
+    {
+      "filename": "IMG_20241026_175455280.jpg",
+      "title": "Hibernation Readiness",
+      "tags": ["farm"],
+      "description": "Signs of turmeric finger maturity"
+    },
+    {
+      "filename": "IMG_20250222_163519201_HDR.jpg",
+      "title": "Hibernation Readiness",
+      "tags": ["farm"],
+      "description": "Signs of turmeric finger maturity"
+    },
+    {
+      "filename": "IMG_20241113_084837167_HDR.jpg",
+      "title": "First Harvest",
+      "tags": ["farm"],
+      "description": "The very first harvest of black turmeric"
+    },
+    {
+      "filename": "IMG_20241113_084933575_HDR.jpg",
+      "title": "First Harvest",
+      "tags": ["farm"],
+      "description": "The very first harvest of black turmeric"
+    },
+    {
+      "filename": "IMG_20241113_084941054_HDR.jpg",
+      "title": "First Harvest",
+      "tags": ["farm"],
+      "description": "The very first harvest of black turmeric"
+    },
+    {
+      "filename": "IMG_20241113_090837692_HDR.jpg",
+      "title": "First Harvest",
+      "tags": ["farm"],
+      "description": "The very first harvest of black turmeric"
+    },
+    {
+      "filename": "IMG_20241113_134154825.jpg",
+      "title": "First Harvest",
+      "tags": ["farm"],
+      "description": "The very first harvest of black turmeric"
+    },
+    {
+      "filename": "IMG_20250502_064042899_HDR.jpg",
+      "title": "Completed Hibernation",
+      "tags": ["farm"],
+      "description": "The sign of rhizomes coming out of hibernation"
+    },
+    {
+      "filename": "IMG_20250502_064057718.jpg",
+      "title": "Completed Hibernation",
+      "tags": ["farm"],
+      "description": "The sign of rhizomes coming out of hibernation"
+    },
+    {
+      "filename": "IMG_20250502_064047323.jpg",
+      "title": "Completed Hibernation",
+      "tags": ["farm"],
+      "description": "The sign of rhizomes coming out of hibernation"
+    },
+    {
+      "filename": "IMG_20250502_114719582.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250502_123825974.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250505_080734130_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250505_135659547_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250506_133435182_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250508_071404451_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250508_073834349_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250508_073945670_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250508_074130088_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250508_093541388.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250508_093705143_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250508_123210166_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250508_120136483_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
+    },
+    {
+      "filename": "IMG_20250508_135757392_HDR.jpg",
+      "title": "Final Harvest",
+      "tags": ["farm"],
+      "description": "The complete farm harvest in progress"
     },
     {
       "filename": "yellowturmeric1.jpg",
