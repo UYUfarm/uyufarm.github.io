@@ -240,8 +240,8 @@ blockquote {
 
 .hero-caption1 h1,
 .hero-caption1 h2 {
-  margin: 0;
-  color: #339BEB;
+  color: white;
+  text-shadow: 0 2px 5px rgba(0,0,0,0.5);
 }
 
 /* Make sure button and other elements scale nicely */
