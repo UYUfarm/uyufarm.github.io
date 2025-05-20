@@ -241,7 +241,7 @@ blockquote {
 .hero-caption1 h1,
 .hero-caption1 h2 {
   margin: 0;
-  color: inherit;
+  color: #339BEB;
 }
 
 /* Make sure button and other elements scale nicely */
