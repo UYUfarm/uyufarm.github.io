@@ -135,30 +135,6 @@ blockquote {
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
-.banner-image {
-  position: absolute;
-  top: 0;
-  left: 0;
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-}
-
-.banner-image.low-res {
-  filter: blur(20px);
-  transform: scale(1.1); /* Slight zoom to hide blur edges */
-}
-
-.banner-image.full-res {
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-  z-index: 2;
-}
-
-.banner-image.full-res.loaded {
-  opacity: 1;
-}
 
 .banner {
 	width: 100%;
@@ -192,6 +168,31 @@ blockquote {
 	right: 0;
 	color: #339BEB;
 }
+.banner-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.banner-image.low-res {
+  filter: blur(20px);
+  transform: scale(1.1); /* Slight zoom to hide blur edges */
+}
+
+.banner-image.full-res {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  z-index: 2;
+}
+
+.banner-image.full-res.loaded {
+  opacity: 1;
+}
+
 .subfooter {
 	background-color: #222222;
 	padding: 40px 0;
