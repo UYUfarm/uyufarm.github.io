@@ -234,7 +234,7 @@ blockquote {
   transform: translate(-50%, -50%); /* Perfect vertical + horizontal center */
   text-align: center;
   color: #339BEB;
-  z-index: 2;
+  z-index: 3;
   width: 100%;
   padding: 0 20px;
 }
