@@ -134,20 +134,33 @@
 		</header>
 		<!-- header end -->
 		<!-- banner start --> 
-		<div id="banner" class="banner">
+		<!--div id="banner" class="banner">
 			<div class="banner-image"></div>
 			<div class="banner-caption">
 				<div style="margin-top: 0px; opacity: 1;" data-animation-effect="fadeIn">
 					<h1>Healthy Food Directly From Farm</h1>
 					<h2 class="padding-top30">Fresh and Safe</h2>
-						<!--div class="padding-top60 contact-form">
+						<div class="padding-top60 contact-form">
 							<button class="btn cta-button">SHOP</button>
-						</div--> 
+						</div> 
 					<a id="" href="#services"><i class="fa fa-angle-down"></i></a>
 				</div>
 			</div>
+		</div-->
+		<div class="banner">
+		  <img
+		    class="banner-img lazy-load blur-up"
+		    src="images/banner-blur.jpg"
+		    data-src="images/banner-full.jpg"
+		    alt="Healthy food banner"
+		  />
+		  <div class="banner-caption">
+		    <h1>Healthy Food Directly From Farm</h1>
+		    <h2 class="padding-top30">Fresh and Safe</h2>
+		    <a href="#services"><i class="fa fa-angle-down"></i></a>
+		  </div>
 		</div>
-		
+
 
 
 		<!-- banner end -->
@@ -633,12 +646,18 @@
 		<script type="text/javascript" src="js/custom.js"></script>
 		<script>
 		  document.addEventListener("DOMContentLoaded", function () {
-		    const fullImage = document.querySelector(".banner-image.full-res");
-		    fullImage.addEventListener("load", function () {
-		      fullImage.classList.add("loaded");
-		    });
+		    const img = document.querySelector('.lazy-load');
+		    const highResSrc = img.getAttribute('data-src');
+		
+		    const highResImg = new Image();
+		    highResImg.src = highResSrc;
+		    highResImg.onload = function () {
+		      img.src = highResSrc;
+		      img.classList.add('lazy-loaded');
+		    };
 		  });
 		</script>
+
 <script>
     $(document).ready(function() {
     // First: Initialize Isotope and click handlers
