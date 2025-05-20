@@ -643,6 +643,14 @@
 
 		<!-- Custom Scripts -->
 		<script type="text/javascript" src="js/custom.js"></script>
+		<script>
+		  document.addEventListener("DOMContentLoaded", function () {
+		    const fullImage = document.querySelector(".banner-image.full-res");
+		    fullImage.addEventListener("load", function () {
+		      fullImage.classList.add("loaded");
+		    });
+		  });
+		</script>
 <script>
     $(document).ready(function() {
     // First: Initialize Isotope and click handlers
