@@ -25,6 +25,36 @@
       "description": "Fresh harvest of black turmeric fingers"
     },
     {
+      "filename": "drying3.jpg",
+      "title": "Delicate drying",
+      "tags": ["farm"],
+      "description": "Gentle drying to remove wet mud from the rhizomes"
+    },
+    {
+      "filename": "drying9.jpg",
+      "title": "Delicate drying",
+      "tags": ["farm"],
+      "description": "Gentle drying to remove wet mud from the rhizomes"
+    },
+    {
+      "filename": "drying8.jpg",
+      "title": "Delicate drying",
+      "tags": ["farm"],
+      "description": "Gentle drying to remove wet mud from the rhizomes"
+    },
+    {
+      "filename": "drying7.jpg",
+      "title": "Delicate drying",
+      "tags": ["farm"],
+      "description": "Gentle drying to remove wet mud from the rhizomes"
+    },
+    {
+      "filename": "drying5.jpg",
+      "title": "Delicate drying",
+      "tags": ["farm"],
+      "description": "Gentle drying to remove wet mud from the rhizomes"
+    },
+    {
       "filename": "IMG_20250502_072653219_HDR.jpg",
       "title": "Sprouting black turmeric",
       "tags": ["turmeric"],
@@ -484,9 +514,13 @@
       "filename": "yellowturmeric1.jpg",
       "title": "Yellow Turmeric Fingers",
       "tags": ["turmeric", "farm"],
-      "description": "Broken fingers of Lakadong variety turmeric fingers",
-      "modalTitle": "Yellow Trmeric",
-      "detailedDescription": "Lakadong variety fingers have their characteristic color and fragrance. They have high curcumin content."
+      "description": "Broken fingers of Lakadong variety turmeric"
+    },
+    {
+      "filename": "IMG_20250504_161754634.jpg",
+      "title": "Yellow Turmeric Slices",
+      "tags": ["turmeric"],
+      "description": "Sliced fingers of Lakadong variety turmeric"
     }
   ]
 }
