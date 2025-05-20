@@ -226,8 +226,7 @@ blockquote {
   opacity: 1;
 }
 
-.hero-caption {
-  margin-top: 100vh;
+.hero-caption1 {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -239,19 +238,19 @@ blockquote {
   padding: 0 20px;
 }
 
-.hero-caption h1,
-.hero-caption h2 {
+.hero-caption1 h1,
+.hero-caption1 h2 {
   margin: 0;
   color: inherit;
 }
 
 /* Make sure button and other elements scale nicely */
 @media (max-width: 768px) {
-  .hero-caption h1 {
+  .hero-caption1 h1 {
     font-size: 24px;
   }
 
-  .hero-caption h2 {
+  .hero-caption1 h2 {
     font-size: 16px;
   }
 
