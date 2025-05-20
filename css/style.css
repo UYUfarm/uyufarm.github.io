@@ -241,7 +241,7 @@ blockquote {
 .hero-caption1 h1,
 .hero-caption1 h2 {
   color: white;
-  text-shadow: 0 2px 5px rgba(0,0,0,0.5);
+  text-shadow: 0 2px 5px rgba(51, 155, 235, 0.99);
 }
 
 /* Make sure button and other elements scale nicely */
