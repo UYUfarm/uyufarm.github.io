@@ -147,24 +147,25 @@
 				</div>
 			</div>
 		</div-->
-		<div id="hero-banner" class="hero-banner">
-		  <img 
-		    class="hero-banner-img lazy-load blur-up" 
-		    src="images/banner-blur.jpg" 
-		    data-src="images/banner-full.jpg" 
-		    alt="Healthy Food Banner"
-		  />
-		  <div class="hero-banner-caption">
-		    <div data-animation-effect="fadeIn">
-		      <h1>Healthy Food Directly From Farm</h1>
-		      <h2 class="padding-top30">Fresh and Safe</h2>
-		      <div class="padding-top60 contact-form">
-		        <button class="btn cta-button">SHOP</button>
-		      </div>
-		      <a href="#services"><i class="fa fa-angle-down"></i></a>
-		    </div>
-		  </div>
-		</div>
+<div id="hero" class="hero-container">
+  <img 
+    class="hero-img lazy-load blur-up" 
+    src="images/banner-blur.jpg" 
+    data-src="images/banner-full.jpg" 
+    alt="Healthy Food Banner"
+  />
+  <div class="hero-caption">
+    <div data-animation-effect="fadeIn">
+      <h1>Healthy Food Directly From Farm</h1>
+      <h2 class="padding-top30">Fresh and Safe</h2>
+      <div class="padding-top60 contact-form">
+        <button class="btn cta-button">SHOP</button>
+      </div>
+      <a href="#services"><i class="fa fa-angle-down"></i></a>
+    </div>
+  </div>
+</div>
+
 
 
 
@@ -651,18 +652,19 @@
 		<!-- Custom Scripts -->
 		<script type="text/javascript" src="js/custom.js"></script>
 		<script>
-		  document.addEventListener("DOMContentLoaded", function () {
-		    const img = document.querySelector('.lazy-load');
-		    const highResSrc = img.getAttribute('data-src');
-		
-		    const highResImg = new Image();
-		    highResImg.src = highResSrc;
-		    highResImg.onload = function () {
-		      img.src = highResSrc;
-		      img.classList.add('lazy-loaded');
-		    };
-		  });
-		</script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const img = document.querySelector('.lazy-load');
+    const highResSrc = img.getAttribute('data-src');
+
+    const highResImg = new Image();
+    highResImg.src = highResSrc;
+    highResImg.onload = function () {
+      img.src = highResSrc;
+      img.classList.add('lazy-loaded');
+    };
+  });
+</script>
+
 
 
 <script>
